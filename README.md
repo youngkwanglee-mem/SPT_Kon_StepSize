@@ -34,7 +34,7 @@ This project is licensed under the GNU General Public License v2.0 - see the [LI
 If you use this script in your research, please cite it as follows:
 
 **APA Style:**
-YourLastName, Y. K. (2024). SPT_Kon_StepSize: MATLAB script for TrackMate association kinetics and step size analysis (Version 1.0.0). GitHub. https://doi.org/10.5281/zenodo.18126517
+Lee, Y. K. (2024). SPT_Kon_StepSize: MATLAB script for TrackMate association kinetics and step size analysis (Version 1.0.0). GitHub. https://doi.org/10.5281/zenodo.18126517
 
 **BibTeX:**
 ```bibtex
