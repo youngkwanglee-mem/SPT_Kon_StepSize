@@ -28,3 +28,23 @@ Run the script in MATLAB. It will perform the following steps:
 
 ## License
 This project is licensed under the GNU General Public License v2.0 - see the [LICENSE](LICENSE) file for details.
+
+
+## Citation
+If you use this script in your research, please cite it as follows:
+
+**APA Style:**
+YourLastName, Y. K. (2024). SPT_Kon_StepSize: MATLAB script for TrackMate association kinetics and step size analysis (Version 1.0.0). GitHub. https://doi.org/10.5281/zenodo.18126517
+
+**BibTeX:**
+```bibtex
+@software{YourLastName2024,
+  author = {YourLastName, YourFirstName},
+  title = {SPT_Kon_StepSize: MATLAB script for TrackMate association kinetics and step size analysis},
+  version = {1.0.0},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  year = {2024},
+  doi = {10.5281/zenodo.18126517},
+  url = {[https://github.com/YourUsername/YourRepoName](https://github.com/YourUsername/YourRepoName)}
+}
